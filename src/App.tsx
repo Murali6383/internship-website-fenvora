@@ -133,7 +133,7 @@ function Logo({ light = false }: { light?: boolean }) {
   return (
     <span className={`logo${light ? " logo-light" : ""}`}>
       <img
-        src="/FENVARO-logo.png"
+        src="/fenvaro-logo.png"
         alt={`${COMPANY_NAME} logo`}
         className="company-logo"
       />
