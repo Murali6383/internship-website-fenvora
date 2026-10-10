@@ -1,9 +1,9 @@
 
-# fenvaro Infotech – Internship Portal
+# FENVARO Infotech – Internship Portal
 
 **Technology That Moves Business Forward.**
 
-A modern, responsive internship portal website for **fenvaro Infotech Pvt. Ltd.** that helps students explore internship opportunities and apply through an online application form.
+A modern, responsive internship portal website for **FENVARO Infotech Pvt. Ltd.** that helps students explore internship opportunities and apply through an online application form.
 
 ## 🚀 Features
 
@@ -40,7 +40,7 @@ A modern, responsive internship portal website for **fenvaro Infotech Pvt. Ltd.*
 ```text
 client/
 ├── public/
-│   └── fenvaro-logo.png
+│   └── FENVARO-logo.png
 ├── src/
 │   ├── App.tsx
 │   ├── App.css
@@ -97,15 +97,15 @@ http://localhost:5173/
 Place the company logo inside the `public` directory:
 
 ```text
-client/public/fenvaro-logo.png
+client/public/FENVARO-logo.png
 ```
 
 Use the following path in React:
 
 ```tsx
 <img
-  src="/fenvaro-logo.png"
-  alt="fenvaro Infotech logo"
+  src="/FENVARO-logo.png"
+  alt="FENVARO Infotech logo"
   className="company-logo"
 />
 ```
@@ -120,11 +120,11 @@ Use the following path in React:
 
 ## 🎯 Project Objective
 
-The objective of this project is to provide students with a simple and accessible platform to discover internship opportunities and submit applications online while presenting fenvaro Infotech's services and professional identity.
+The objective of this project is to provide students with a simple and accessible platform to discover internship opportunities and submit applications online while presenting FENVARO Infotech's services and professional identity.
 
-## 🏢 About fenvaro Infotech Pvt. Ltd.
+## 🏢 About FENVARO Infotech Pvt. Ltd.
 
-fenvaro Infotech Pvt. Ltd. provides website development, software development, application development, and AI-powered technology solutions. The company focuses on building practical digital solutions that help businesses improve efficiency and grow.
+FENVARO Infotech Pvt. Ltd. provides website development, software development, application development, and AI-powered technology solutions. The company focuses on building practical digital solutions that help businesses improve efficiency and grow.
 
 **Tagline:** Technology That Moves Business Forward.
 
@@ -140,7 +140,7 @@ fenvaro Infotech Pvt. Ltd. provides website development, software development, a
 
 ## 📄 License
 
-This project is maintained by fenvaro Infotech Pvt. Ltd.
+This project is maintained by FENVARO Infotech Pvt. Ltd.
 
 ---
 
