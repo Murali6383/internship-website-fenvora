@@ -133,12 +133,12 @@ function Logo({ light = false }: { light?: boolean }) {
   return (
     <span className={`logo${light ? " logo-light" : ""}`}>
       <img
-        src="/fenvora-logo.png"
+        src="/fenvaro-logo.png"
         alt={`${COMPANY_NAME} logo`}
         className="company-logo"
       />
       <span className="logo-text">
-        <span className="logo-name">Fenvora</span>
+        <span className="logo-name">fenvaro</span>
         <span className="logo-sub">Infotech Pvt. Ltd.</span>
       </span>
     </span>
@@ -305,7 +305,7 @@ export default function App() {
                   Explore Internships
                 </a>
                 <a href="#about" className="btn btn-ghost">
-                  Discover Fenvora
+                  Discover fenvaro
                 </a>
               </div>
             </div>
@@ -447,7 +447,7 @@ export default function App() {
 
             <div className="about-body">
               <p>
-                Fenvora Infotech Pvt. Ltd. is a technology startup focused on
+                fenvaro Infotech Pvt. Ltd. is a technology startup focused on
                 building useful digital experiences that help businesses work
                 smarter and reach their goals. We care about clear design,
                 reliable software, and solutions that are simple for people to
